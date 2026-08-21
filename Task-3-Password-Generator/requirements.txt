@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Tkinter and secrets are included with standard Python installations.
